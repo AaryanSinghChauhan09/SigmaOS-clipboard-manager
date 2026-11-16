@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-clipboard-manager"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS clipboard-manager component - desktop"
+
+[lib]
+name = "clipboard_manager"
+path = "src/lib.rs"
