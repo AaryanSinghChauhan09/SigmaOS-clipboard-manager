@@ -3,7 +3,7 @@ name = "SigmaOS-clipboard-manager"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "clipboard-manager component"
+description = "clipboard manager"
 upstream = []
 
 [contract]
