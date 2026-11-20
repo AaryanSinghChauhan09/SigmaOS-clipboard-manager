@@ -4,6 +4,9 @@
 //! Real implementation: managers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.
 
+/// Clipboard management module (history, formats, items).
+pub mod sigmaclipboardmanager;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
